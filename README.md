@@ -8,8 +8,8 @@ This repository contains a collection of projects related to object detection us
 
 Here are the current projects in this repository:
 
-- **Project 1**: Object Detection on COCO Dataset using YOLOv3
-- **Project 2**: Real-time Object Detection using YOLOv4 and OpenCV
+- **Project 1**: Object Detection on COCO Dataset using YOLO-NAS
+- **Project 2**: Real-time Object Detection using YOLOv5 and OpenCV
 - **Project 3**: Object Detection on Custom Dataset using YOLOv5
 
 ## Requirements
