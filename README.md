@@ -1,6 +1,6 @@
 # YOLO Object Detection Projects Repository
 
-Welcome to the YOLO (You Only Look Once) Object Detection Projects repository!
+Welcome to the YOLO (You Only Look Once) Object Detection Projects repository!!
 
 This repository contains a collection of projects related to object detection using the YOLO algorithm. Each project has its own directory containing code, data, and any necessary documentation.
 
