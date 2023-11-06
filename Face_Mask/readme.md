@@ -40,20 +40,21 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 - Train your Face Mask Detection model using Super Gradients, Roboflow, and other components mentioned in your code.
 - Use the trained model for inference or integrate it into your application.
-```sh
-# Sample code for inference
-from super_gradients.training import models
-from super_gradients.training import Trainer
 
-# Load the trained model
-model = models.YourModel()
-model.load_weights('path/to/your/weights')
+  ```sh
+  # Sample code for inference
+  from super_gradients.training import models
+  from super_gradients.training import Trainer
+  
+  # Load the trained model
+  model = models.YourModel()
+  model.load_weights('path/to/your/weights')
+  
+  # Perform inference on an image
+  image = Image.open('path/to/your/image.jpg')
+  detections = model.predict(image)
 
-# Perform inference on an image
-image = Image.open('path/to/your/image.jpg')
-detections = model.predict(image)
-
-# Process the detection results as needed
+  # Process the detection results as needed
 
 ## Contributing
 To contribute to this project, follow these steps:
