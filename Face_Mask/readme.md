@@ -1,9 +1,6 @@
 # Face Mask Detection Project
-
+![facemask](https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/9a62fa07-a8f6-4ab5-a006-22124420f14d)
 A Face Mask Detection project that uses the Super Gradients library and Roboflow for building a detection model.
-
-![Demo Image]([face_mask.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallai.nl%2Fportfolio-item%2Fface-mask-detection%2F&psig=AOvVaw1B0KEtWqikNhAKko_qTk3e&ust=1699323333063000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC84--mroIDFQAAAAAdAAAAABAK))
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
