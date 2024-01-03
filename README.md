@@ -9,7 +9,12 @@ This repository contains a collection of projects related to object detection us
 Here are the current projects in this repository:
 
 - **Project 1**: Face Mask Detection using YOLO-NAS
+![facemask](https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/8cf7bf40-6b30-4491-a729-501d6da8568c)
+
 - **Project 2**: Tata Logo Detection Using YOLO-NAS
+![tata](https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/62a6025d-2a43-44f3-a3bc-58b617c23e2b)
+
+https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/23304b15-55df-45f7-b77a-60e312a7e69e
 
 ## Requirements
 
@@ -31,5 +36,8 @@ To use any of the projects in this repository, navigate to the project's directo
 Contributions to this repository are welcome! If you have a project related to YOLO object detection that you would like to share, please fork this repository and submit a pull request.
 
 ## License
+@PratyakshSuri
 
-All code in this repository is licensed by me. so please don't copy.
+Uploading tata.mp4…
+
+
