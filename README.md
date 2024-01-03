@@ -40,6 +40,3 @@ Contributions to this repository are welcome! If you have a project related to Y
 ## License
 @PratyakshSuri
 
-Uploading tata.mp4…
-
-
