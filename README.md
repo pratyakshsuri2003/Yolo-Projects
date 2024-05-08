@@ -18,6 +18,14 @@ Here are the current projects in this repository:
 
 https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/23304b15-55df-45f7-b77a-60e312a7e69e
 
+- **Project 3**: Casting Defects Detection Using YOLO-NAS
+ 
+![test (332)](https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/93cd1dd6-0f00-4dfa-b47b-33c1ef194e65)
+
+- **Project 4**: PPE Suit Detection Using YOLO-NAS
+
+![1 (145)](https://github.com/pratyakshsuri2003/Yolo-Projects/assets/115720372/3bd9040d-a989-450f-a0ce-43933e1f9e6a)
+
 ## Requirements
 
 The following are the general requirements for running the projects in this repository:
